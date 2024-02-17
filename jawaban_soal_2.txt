@@ -1,0 +1,4 @@
+git rebase adalah ketika kita ingin merubah sejarah commit pada cabang sehingga perubahan tersebut terlihat dilakukan di atas cabang utama atau dengan kata lain seolah olah perubahan tersebut baru saja dilakukan.
+
+Secara umum, perintah git rebase digunakan untuk memindahkan Cabang artinya ketika kita ingin memindahkan perubahan cabang utama ke cabang kita. Lalu git rebase bisa juga digunnakan untuk menggabungkan, mengubah urutan, atau memperbaiki commit dari satu atau comit lainnya. git rebase juga dapat membuat sejarah commit lebih terstruktur.
+
